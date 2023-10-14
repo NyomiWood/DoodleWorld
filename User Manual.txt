@@ -1,0 +1,28 @@
+User Manual for DoodleWorld App
+
+Table of Contents
+Getting Started
+Drawing Prompts
+Color Generator
+Contact Us
+
+1. Getting Started
+When you open the DoodleWorld app, you'll be greeted with the main window. It provides access to various features and secondary windows. Here's a quick guide:
+
+2. Drawing Prompts (Window One)
+Click the "Window One" button.
+In this window, you'll find a collection of ten drawing prompts.
+Choose one for your doodling inspiration and let your creativity flow.
+
+3. Color Generator (Window Two)
+Click the "Window Two" button.
+You'll enter the "Color Generator" window.
+Hit the "Generate" button to create a random color.
+The color's RGB values and the color itself will be displayed.
+
+4. Contact Us
+Click the "Contact Us" button.
+Here, you can contact us at doodleword@finalproject.com.
+When you're done, you can return to the main window.
+
+This simple user manual helps you navigate and enjoy the features of the DoodleWorld app. Have fun doodling and generating colors!
